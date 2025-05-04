@@ -1,3 +1,9 @@
+/build/
+/.vscode/
+/venv/
+build.txt
+CMakeUserPresets.json
+
 # Prerequisites
 *.d
 
